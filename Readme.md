@@ -27,3 +27,8 @@
 - [ ] Strategy
 - [ ] Template Method
 - [ ] Visitor
+# 使用環境
+|內容|說明|
+|---|---|
+|作業系統| Windows Subsystem for Linux (Ubuntu 18.04.6 LTS)|
+|語言| C/C++ (gcc version 7.5.0)<br> Python (Python 3.8.0)|
