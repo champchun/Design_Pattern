@@ -3,7 +3,7 @@
 是參考[refactoring.guru](https://refactoring.guru/)這個網站所提供的範例與設計圖檔重新撰寫程式以練習與驗證設計結果
 # 練習順序
 ## Creational
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Prototype

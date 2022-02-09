@@ -1,0 +1,3 @@
+/mnt/e/程式碼練習/Design_Pattern/Factory Method/Cpp/build/CMakeFiles/Factory_Methon_run.dir
+/mnt/e/程式碼練習/Design_Pattern/Factory Method/Cpp/build/CMakeFiles/edit_cache.dir
+/mnt/e/程式碼練習/Design_Pattern/Factory Method/Cpp/build/CMakeFiles/rebuild_cache.dir

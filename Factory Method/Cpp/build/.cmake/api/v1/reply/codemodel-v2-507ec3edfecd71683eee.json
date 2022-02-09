@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Factory_Methon",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Factory_Methon_run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Factory_Methon_run-963f9d6a47d2c8259f3f.json",
+					"name" : "Factory_Methon_run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/e/\u7a0b\u5f0f\u78bc\u7df4\u7fd2/Design_Pattern/Factory Method/Cpp/build",
+		"source" : "/mnt/e/\u7a0b\u5f0f\u78bc\u7df4\u7fd2/Design_Pattern/Factory Method/Cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
