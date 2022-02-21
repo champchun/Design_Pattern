@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.0)
+
+project(Abstract_Factory VERSION 1.0)
+
+set(CMAKE_CXX_STANDARD 17)
+add_executable(${CMAKE_PROJECT_NAME}_run main.cpp)
+
+add_custom_command(
+    TARGET ${CMAKE_PROJECT_NAME}_run
+    POST_BUILD
+    COMMAND ${CMAKE_PROJECT_NAME}_run  -E echo compile finish
+    COMMENT "Running for Checkout ${CMAKE_PROJECT_NAME}"
+)

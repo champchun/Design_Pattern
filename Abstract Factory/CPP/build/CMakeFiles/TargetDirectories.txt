@@ -1,0 +1,3 @@
+/mnt/e/程式碼練習/Design_Pattern/Abstract Factory/CPP/build/CMakeFiles/Abstract_Factory_run.dir
+/mnt/e/程式碼練習/Design_Pattern/Abstract Factory/CPP/build/CMakeFiles/edit_cache.dir
+/mnt/e/程式碼練習/Design_Pattern/Abstract Factory/CPP/build/CMakeFiles/rebuild_cache.dir
