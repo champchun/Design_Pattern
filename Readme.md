@@ -4,7 +4,7 @@
 # 練習順序
 ## Creational
 - [x] Factory Method
-- [ ] Abstract Factory
+- [x] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
 - [ ] Singleton
