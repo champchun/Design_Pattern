@@ -1,2 +1,2 @@
 # Structure diagram
-![](Builder/uml/Builder.svg)
+![](./uml/Builder.svg)
